@@ -1,0 +1,6 @@
+{
+  "name": "Crowdsourced Civic Issue Reporting and Resolution System",
+  "description": "Smart India Hackathon portal (SIH25031) for Indian citizens to report civic issues directly to local government authorities with AI categorizations and GPS mapping.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

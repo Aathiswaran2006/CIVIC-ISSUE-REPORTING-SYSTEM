@@ -1,0 +1,71 @@
+{
+  "users": [
+    {
+      "id": "u-admin",
+      "name": "Sanjay Kumar (IAS)",
+      "email": "admin@sih.gov.in",
+      "phone": "+91 9876543210",
+      "role": "ADMIN",
+      "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=150"
+    },
+    {
+      "id": "u-auth-roads",
+      "name": "R. K. Selvan",
+      "email": "authority@sih.gov.in",
+      "phone": "+91 9444012345",
+      "role": "AUTHORITY",
+      "department": "Roads & Highways",
+      "district": "Chennai",
+      "state": "Tamil Nadu",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150"
+    },
+    {
+      "id": "u-auth-sanitation",
+      "name": "Amit Sharma",
+      "email": "sanitation@sih.gov.in",
+      "phone": "+91 9111223344",
+      "role": "AUTHORITY",
+      "department": "Sanitation & Waste Management",
+      "district": "Central Delhi",
+      "state": "Delhi",
+      "avatar": "https://images.unsplash.com/photo-1628157582853-a796fa650a6a?w=150"
+    },
+    {
+      "id": "u-citizen",
+      "name": "Rajesh Pillai",
+      "email": "citizen@sih.gov.in",
+      "phone": "+91 9988776655",
+      "role": "CITIZEN",
+      "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=150"
+    },
+    {
+      "id": "u-1783164064372",
+      "name": "AATHISWARAN",
+      "email": "snthkshm@gmail.com",
+      "phone": "7812811619",
+      "role": "CITIZEN",
+      "state": "Tamil Nadu",
+      "district": "Chennai",
+      "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=150"
+    }
+  ],
+  "authStore": {
+    "u-admin": "$2b$10$UhKgD.DapNgHBgATh6sLQuGuR7DfXy71QA8S6znzyC3CGVzqbTMPK",
+    "u-auth-roads": "$2b$10$sX8FKACJunXtR/x6IgenSOu1xYn9UnKl.fAG8vdcOsd4BKk7H2wnC",
+    "u-auth-sanitation": "$2b$10$l/3cO8ZlL4.z9EV5ogXmjus2rcixhBhpvnGuLO1/oIlw9YqLPfOzq",
+    "u-citizen": "$2b$10$8g0fqKzwZG3iCA5Ho.mdBOxRBqcNpea/1q3x0GH4/JRbdXY1oLso6",
+    "u-1783164064372": "$2b$10$RntZO4X0JTx5KAONOMD9z.RewU7VC8D9zV3tRUymvK/QPpO3Yp7H."
+  },
+  "complaints": [],
+  "notifications": [],
+  "auditLogs": [
+    {
+      "id": "log-1",
+      "action": "DATABASE_INITIALIZED",
+      "userId": "system",
+      "userName": "System Server",
+      "details": "Initial clean database loaded successfully.",
+      "timestamp": "2026-07-04T11:12:39.592Z"
+    }
+  ]
+}
